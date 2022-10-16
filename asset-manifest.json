@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/beatriz-cs/portfolio-final.git/static/js/main.5dbc68c6.js",
+    "static/media/lol.png": "/beatriz-cs/portfolio-final.git/static/media/lol.2bcfe29d88dc603b17bd.png",
+    "static/media/ic3peak.png": "/beatriz-cs/portfolio-final.git/static/media/ic3peak.e6e0689d5272cc1ad818.png",
+    "static/media/portflow.png": "/beatriz-cs/portfolio-final.git/static/media/portflow.43d5fdc29612bc282cdf.png",
+    "static/media/codar.png": "/beatriz-cs/portfolio-final.git/static/media/codar.5b8405f2cb7c2cd71d13.png",
+    "static/media/finn.png": "/beatriz-cs/portfolio-final.git/static/media/finn.94a1f6a2d42a03663711.png",
+    "static/media/list.png": "/beatriz-cs/portfolio-final.git/static/media/list.460bfaf483139ac3a370.png",
+    "index.html": "/beatriz-cs/portfolio-final.git/index.html",
+    "main.5dbc68c6.js.map": "/beatriz-cs/portfolio-final.git/static/js/main.5dbc68c6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5dbc68c6.js"
+  ]
+}
